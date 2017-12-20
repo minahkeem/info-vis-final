@@ -1,3 +1,0 @@
-function drawData() {
-    "use strict";
-}
